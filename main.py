@@ -3,6 +3,8 @@ from del_student import del_student as delete
 from search import seach_and_change
 import codecs
 
+
+#  Проверка gita
 #-----------------------------------------------------------------------
 config_file = codecs.open('config.txt', 'r', encoding='UTF-8')
 config = config_file.read()
